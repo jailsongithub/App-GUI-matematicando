@@ -4,6 +4,4 @@ O matematicando foi desenvolvido como parte de um projeto de pesquisa para apren
 
 Este App GUI é compatível para ser executado em Windows.
 
-Dúvidas e contribuições:
-email: jailson.santos@ufob.edu.br
-Jailson
+Dúvidas e contribuições: jailson.santos@ufob.edu.br - Jailson
