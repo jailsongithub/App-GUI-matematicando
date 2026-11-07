@@ -13,4 +13,5 @@ O Matematicando está registrado sob o Processo Nº: BR512024002216-3.
 Para dúvidas ou contribuições, entre em contato:
 Jailson França dos Santos – jailson.santos@ufob.edu.br
 
-![Minha imagem](Fig01.png)
+(Fig01.png)
+(Fig02.png)
