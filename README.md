@@ -45,7 +45,7 @@ O aplicativo busca contribuir para o desenvolvimento de habilidades matemáticas
 
 ## 💻 Tecnologias utilizadas
 
-O desenvolvimento do Matematicando utiliza as seguintes tecnologias:
+O desenvolvimento do **Matematicando** utiliza as seguintes tecnologias:
 
 - 🐍 **Python** – linguagem de programação;
 - 🖥️ **Tkinter** – construção da interface gráfica;
