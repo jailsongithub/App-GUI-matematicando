@@ -8,7 +8,7 @@ Espera-se que o uso do Matematicando contribua para o desenvolvimento de habilid
 
 Este aplicativo está disponível para sistemas operacionais Windows.
 
-O Matematicando está registrado sob o Processo Nº: BR512024002216-3.
+**Registro de programa de computador:** BR512024002216-3.
 
 Para dúvidas ou contribuições, entre em contato:
 Jailson França dos Santos – jailson.santos@ufob.edu.br
