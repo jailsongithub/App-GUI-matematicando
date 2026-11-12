@@ -77,6 +77,21 @@ O software possui registro junto ao Instituto Nacional da Propriedade Industrial
 
 **Registro nº BR512024002216-3.**
 
+## 📚 Produções relacionadas
+
+O desenvolvimento e a aplicação do Matematicando também resultaram em produção científica, contribuindo para as discussões sobre o uso de tecnologias digitais e a aprendizagem matemática.
+
+- **Artigo 1 – Aplicativo Matematicando: uma proposta de gênese instrumental para aprendizagem matemática.**
+
+  SANTOS, Jailson França dos; BLASS, Leandro; CARVALHO, Edmo Fernandes. *Ciência & Educação*, Bauru, v. 31, 2025.
+
+  **DOI:** [10.1590/1516-731320250058](https://doi.org/10.1590/1516-731320250058).
+
+  **Publicação:** [Acessar artigo na SciELO](https://www.scielo.br/j/ciedu/a/qxrFg96SGBn49sT8FNSsn6Q/?lang=pt).
+
+  **Tipo de publicação:** Artigo científico original, publicado em acesso aberto.
+
+
 ## 📩 Contato
 
 Para dúvidas, sugestões, informações ou contribuições relacionadas ao projeto, entre em contato:
