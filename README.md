@@ -64,7 +64,7 @@ Confira algumas telas do Matematicando:
 <p align="center">
   <img src="Fig02.png" width="700">
   <br>
-  <em>Figura 2 – Funcionalidades do aplicativo na aba "Adição".</em>
+  <em>Figura 2 – Funcionalidades do aplicativo na aba "ADIÇÃO".</em>
 </p>
 
 ## 🖥️ Disponibilidade
