@@ -79,7 +79,7 @@ O software possui registro junto ao Instituto Nacional da Propriedade Industrial
 
 ## 📚 Produções relacionadas
 
-O desenvolvimento e a aplicação do **Matematicando** está relacionado a produções científicas que investigam suas contribuições para o ensino e a aprendizagem da Matemática.
+O **Matematicando** está relacionado a produções científicas que investigam suas contribuições para o ensino e a aprendizagem da Matemática.
 
 - **Artigo 1 – Aplicativo Matematicando: uma proposta de gênese instrumental para aprendizagem matemática.**
 
