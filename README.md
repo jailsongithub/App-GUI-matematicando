@@ -1,4 +1,4 @@
-Matematicando – Aplicativo Educacional
+# Matematicando – Aplicativo Educacional
 
 Esta é a primeira versão do Matematicando, um aplicativo com interface gráfica desenvolvido em Python, utilizando as bibliotecas Tkinter e CustomTkinter. Trata-se de uma ferramenta educacional complementar, voltada para o aprendizado e a prática das quatro operações básicas da matemática: adição, subtração, multiplicação e divisão.
 
