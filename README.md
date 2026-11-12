@@ -53,7 +53,7 @@ O desenvolvimento do **Matematicando** utiliza as seguintes tecnologias:
 
 ## 🖼️ Interface do aplicativo
 
-Confira algumas telas do Matematicando:
+Confira algumas telas do **Matematicando**:
 
 <p align="center">
   <img src="Fig01.png" width="700">
@@ -69,7 +69,7 @@ Confira algumas telas do Matematicando:
 
 ## 🖥️ Disponibilidade
 
-O Matematicando está disponível para sistemas operacionais **Windows**.
+O **Matematicando** está disponível para sistemas operacionais **Windows**.
 
 ## 🏆 Registro de programa de computador
 
