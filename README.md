@@ -42,8 +42,6 @@ O aplicativo busca contribuir para o desenvolvimento de habilidades matemáticas
 | EF03MA06 | Adição e subtração |
 | EF03MA07 | Multiplicação |
 | EF03MA08 | Divisão |
-| EF05MA07 | Frações e cálculos |
-| EF05MA08 | Resolução de problemas envolvendo frações |
 
 ## 💻 Tecnologias utilizadas
 
