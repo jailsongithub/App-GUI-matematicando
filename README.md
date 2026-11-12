@@ -24,7 +24,7 @@ Com uma interface intuitiva e acessível, o aplicativo foi projetado para atende
 
 ## 🎯 Objetivo educacional
 
-O Matematicando foi desenvolvido no âmbito de um **projeto de pesquisa e inovação tecnológica**, com foco na criação de recursos educacionais digitais que integrem conhecimentos de programação e práticas de ensino-aprendizagem da matemática.
+O **Matematicando** foi desenvolvido no âmbito de um **projeto de pesquisa e inovação tecnológica**, com foco na criação de recursos educacionais digitais que integrem conhecimentos de programação e práticas de ensino-aprendizagem da matemática.
 
 A proposta é proporcionar um ambiente de aprendizagem complementar, estimulando:
 
