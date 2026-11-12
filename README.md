@@ -13,5 +13,7 @@ Este aplicativo está disponível para sistemas operacionais Windows.
 Para dúvidas ou contribuições, entre em contato:
 Jailson França dos Santos – jailson.santos@ufob.edu.br
 
-![Minha imagem](Fig01.png)
-![Minha imagem](Fig02.png)
+<p align="center">
+  <img src="Fig01.png" width="400">
+  <img src="Fig02.png" width="400">
+</p>
